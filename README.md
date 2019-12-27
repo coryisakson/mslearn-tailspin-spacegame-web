@@ -1,5 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-659&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-659)
 
-[![Build Status](https://dev.azure.com/coisakso/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/coisakso/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=7&branchName=master)
+[![Build Status](https://dev.azure.com/coisakso/Space%20Game%20-%20web%20-%20SonarCloud/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/coisakso/Space%20Game%20-%20web%20-%20SonarCloud/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
