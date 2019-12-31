@@ -36,7 +36,9 @@ steps:
   displayName: 'Restore project dependencies'
   inputs:
     command: 'restore'
-    projects: '**/*.csproj'
+    projects: '**/*.sln'
+    feedsToUse: 'select'
+    vstsFeed: 'Tailspin.SpaceGame.Web.Models'
 
 - task: SonarCloudPrepare@1
   displayName: 'Prepare SonarCloud analysis'
